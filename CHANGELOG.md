@@ -1,3 +1,15 @@
+<a name="1.1.2"></a>
+## 1.1.2 (2026-01-13)
+
+### 構建 | Build
+- use macos-latest image runner (550b355)
+- upgrade action with node 24 (2cc3d17)
+
+### 雜項 | Miscellaneous
+- remove unused arg in bump_version (32db10d)
+
+**Full Changelog**: https://github.com/rime/squirrel/compare/1.1.1...1.1.2
+
 <a name="1.1.1"></a>
 ## 1.1.1 (2026-01-11)
 
